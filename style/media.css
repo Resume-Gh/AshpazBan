@@ -1,0 +1,141 @@
+
+@media (max-width:1470px) {
+    .footer-text {
+        font-size: 120%;
+        margin: 0 50px;
+    }
+    .craetor{
+        display: none;
+    }
+}
+@media (max-width:1080px) {
+    .text p {
+        font-size: 60%;
+    }
+
+    .text a {
+        font-size: 70%;
+    }
+}
+
+@media (max-width:1030px) {
+    .slid h1 {
+        font-size: 150%;
+    }
+
+    .slid p {
+        font-size: 60%;
+    }
+}
+
+@media (max-width:898px) {
+    .footer-text {
+        font-size: 100%;
+    }
+    .text h1 {
+        font-size: 120%;
+    }
+
+    .text a {
+        font-size: 60%
+    }
+}
+
+@media (max-width:838px) {
+    .footer-text {
+        font-size: 90%;
+    }
+    .normal-header .button {
+        display: none;
+    }
+
+    .normal-header {
+        grid-template-columns: 15% 75%;
+        gap: 50px;
+    }
+
+    .normal-header ul {
+        gap: 30px;
+    }
+}
+
+@media (max-width:737px) {
+    .text h1 {
+        font-size: 90%;
+    }
+
+    .text p,
+    .text a {
+        font-size: 40%;
+    }
+}
+
+@media (max-width:608px) {
+    .slid h1 {
+        font-size: 100%;
+    }
+
+    .slid p {
+        margin: 20px;
+        font-size: 60%;
+    }
+}
+
+@media (max-width:576px) {
+    .text h1 {
+        font-size: 80%;
+    }
+}
+
+@media (max-width:526px) {
+    .iamge {
+        display: none;
+    }
+
+    .text {
+        width: 100%;
+    }
+}
+
+@media (max-width:487px) {
+    .logo-footer{
+        display: none;
+    }
+    body>h1 {
+        font-size: 200%;
+    }
+
+    .normal-header ul,
+    .logo {
+        display: none;
+    }
+
+    .media-menu {
+        display: inline-block;
+        position: absolute;
+        top: 8%;
+        right: 5%;
+    }
+
+    .normal-header .button {
+        display: inline-block;
+    }
+
+    .normal-header {
+        grid-template-columns: 80%;
+        gap: 10px;
+        direction: ltr;
+        width: 99%;
+    }
+}
+
+@media (max-width:422px) {
+    .media-menu {
+        top: 10%;
+    }
+}
+@media (max-width:398px) {
+    footer{
+        display: none;
+    }
+}

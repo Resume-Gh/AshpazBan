@@ -1,0 +1,33 @@
+
+main h1,
+h2 {
+    text-align: center;
+    margin: 5% 0;
+}
+
+main h1 {
+    font-size: 250%;
+}
+
+main h2 {
+    font-size: 200%;
+    color: var(--firstcolor);
+}
+
+main span {
+    color: var(--secondcolor);
+}
+
+main p,
+li {
+    font-size: 140%;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+table tr {
+    margin: 5000px;
+}
